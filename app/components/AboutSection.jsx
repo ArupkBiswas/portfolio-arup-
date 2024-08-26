@@ -8,24 +8,18 @@ const TAB_DATA = [
     title: "Skills",
     id: "skills",
     content : (
-      <table border="1" cellspacing="0" cellpadding="8">
-        <tr>
-        <td>React.js</td>
-        <td>PostgreSQL</td>
-        <td>JavaScript</td>
-      </tr>
-      <tr>
-        <td>Java</td>
-        <td>Spring Boot</td>
-        <td>Spring MVC</td>
-      </tr>
-      <tr>
-        <td>Docker</td>
-        <td>ORM Tools</td>
-        <td>Hibernate</td>
-        <td>JPA</td>
-      </tr>
-      </table>
+      <ul>
+        <li>React.js</li>	
+        <li>PostgreSQL</li>	
+        <li>JavaScript</li>
+        <li>Java</li>	
+        <li>Spring Boot</li>
+        <li>Spring MVC</li>
+        <li>Docker</li>	
+        <li>ORM Tools</li>	
+        <li>Hibernate</li>	
+        <li>JPA</li>
+      </ul>
     )
   },
   {
