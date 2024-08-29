@@ -51,9 +51,10 @@ const EmailSection = () => {
           I&apos;m currently looking for new opportunities, my inbox is always
           open. Whether you have a question or just want to say hi, I&apos;ll
           try my best to get back to you! <br></br>
-          <p className="font-extrabold mt-5">
-            Email : arupkbiswas023@gmail.com
-          </p>
+          Please reach out by the email.
+        </p>
+        <p className="text-[#ADB7BE] mb-4 max-w-md">
+          Email : arupkbiswas023@gmail.com
         </p>
         <div className="socials flex flex-row gap-2">
           <Link href="https://github.com/ArupkBiswas">
@@ -122,9 +123,6 @@ const EmailSection = () => {
               <p className="text-yellow-500 text-sm mt-2 font-bold">
                 It&apos;s a work in progress...
               </p>
-              // <p className="text-green-500 text-sm mt-2">
-              //   Email sent successfully!
-              // </p>
             )
           }
         </from>
